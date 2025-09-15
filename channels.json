@@ -18,5 +18,17 @@
   {
     "name": "LG Channels",
     "url": "https://www.apsattv.com/lg.m3u"
+  },
+  {
+    "name": "国内频道 - CCTV",
+    "url": "https://live.fanmingming.com/tv/m3u/global.m3u"
+  },
+  {
+    "name": "国内频道 - 卫视",
+    "url": "https://live.fanmingming.com/tv/m3u/mainland.m3u"
+  },
+  {
+    "name": "国内频道 - 地方台",
+    "url": "https://live.fanmingming.com/tv/m3u/extra.m3u"
   }
 ]
