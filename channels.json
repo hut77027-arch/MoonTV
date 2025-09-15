@@ -32,3 +32,37 @@
     "url": "https://live.fanmingming.com/tv/m3u/extra.m3u"
   }
 ]
+[
+  {
+    "name": "全球 IPTV",
+    "url": "https://iptv-org.github.io/iptv/index.m3u"
+  },
+  {
+    "name": "美国频道",
+    "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
+  },
+  {
+    "name": "英文频道",
+    "url": "https://iptv-org.github.io/iptv/languages/eng.m3u"
+  },
+  {
+    "name": "Free-TV",
+    "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+  },
+  {
+    "name": "LG Channels",
+    "url": "https://www.apsattv.com/lg.m3u"
+  },
+  {
+    "name": "国内频道 - CCTV",
+    "url": "https://live.fanmingming.com/tv/m3u/global.m3u"
+  },
+  {
+    "name": "国内频道 - 卫视",
+    "url": "https://live.fanmingming.com/tv/m3u/mainland.m3u"
+  },
+  {
+    "name": "国内频道 - 地方台",
+    "url": "https://live.fanmingming.com/tv/m3u/extra.m3u"
+  }
+]
